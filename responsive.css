@@ -2,10 +2,7 @@
 @media only screen and (max-width: 300px) {
     body{width: auto; height: auto;}
     li{font-size: 9px;}
-    .navdiv{width: auto; display: block;}
-    .imgdiv{width: auto;}
     .middle{width: auto;}
-    .navbardiv{width: auto; display: block; margin: auto ;}
     .hserv{font-size: 12px;}
     .cardo{display: block; width: auto;}
     .boxA1{width: auto; }
@@ -19,16 +16,12 @@
     .box1{width: auto;}
     .navigation-manual{width: auto;}
     .navigation-auto{width: auto;}
-    .slide{background-position: center; background-size: cover; background-repeat: no-repeat;}
-    
+    .slide{background-position: center; background-size: cover; background-repeat: no-repeat;} 
   }
   @media only screen and (max-width: 700px) {
     body{width: auto; height: auto;}
     li{font-size: 9px;}
-    .navdiv{width: auto; display: block;}
-    .imgdiv{width: auto;}
-    .middle{width: auto;}
-    .navbardiv{width: auto; display: block; margin: auto ;}
+    
     .hserv{font-size: 12px;}
     .cardo{display: block; width: auto;}
     .boxA1{width: auto; }
