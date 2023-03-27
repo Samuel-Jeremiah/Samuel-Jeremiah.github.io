@@ -1,0 +1,26 @@
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+    body{width: auto; height: auto;}
+    .navdiv{width: auto;}
+    .imgdiv{width: auto;}
+    .middle{width: auto;}
+    .navbardiv{width: auto;}
+    .hserv{font-size: 12px;}
+    .cardo{display: block; width: auto;}
+    .boxA1{width: auto; }
+    .boxA2{width: auto; }
+    .B{font-size: 12px;}
+    .sma1{width: 15px; height: 20px;}
+    .experience{font-size: 13px;}
+    h3, h2{font-size: 13px;}
+    .myProgress, .myBar{width: 90px; height: 17px;}
+    .container{width: auto;}
+    .box1{width: auto;}
+    .navigation-manual{width: auto;}
+    .navigation-auto{width: auto;}
+    .slide{background-position: center; background-size: cover; background-repeat: no-repeat;}
+
+
+    
+  }
+  
